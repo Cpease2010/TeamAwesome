@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+header {
+    color: red;
+    font-family: cursive;
+
+}
+
+img {
+    height: 30vmax;
+    border: 1px solid red;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+
+}
+
+ul {
+    color: red; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
